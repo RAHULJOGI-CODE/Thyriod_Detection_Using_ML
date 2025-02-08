@@ -1,4 +1,4 @@
-# Thyroid Disease Prediction using Machine Learning
+# Thyroid Disease Prediction and Deployment using Machine Learning
 
 ## 📌 Project Overview
 Thyroid disease is a prevalent medical condition that affects metabolic regulation. This project aims to predict the risk of thyroid disease using classical machine learning techniques. The solution follows a modular, scalable, and maintainable approach while leveraging cloud deployment and AI Ops methodologies.
